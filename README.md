@@ -1,4 +1,4 @@
-# FlashDot
+# FlashDot - An observation, this is an Vibe Coding project.
 
 <p align="center">
   <img src="icon.svg" alt="FlashDot Logo" width="128" height="128">
